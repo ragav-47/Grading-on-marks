@@ -1,5 +1,4 @@
 # Grading-on-marks
-
 ## Aim:
 To write a C# program to grade the marks
 ## Algorithm:
@@ -46,7 +45,6 @@ namespace vijay
         }
     }
 }
-
 ```
 ## Output:
 ![Screenshot (43)](https://user-images.githubusercontent.com/75235488/163834354-6061aa5f-a7cc-4276-bc1d-8cfc270925fb.png)
