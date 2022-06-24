@@ -1,4 +1,6 @@
-# Grading-on-marks
+### EX NO : 03
+### DATE  : 07.04.2022
+# <p align="center">Grading-on-marks</p>
 ## Aim:
 To write a C# program to grade the marks
 ## Algorithm:
@@ -14,6 +16,9 @@ Use if and elif condition to check the grade
 print the grade for the given mark
 ### Step6:
 stop
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 ## Program:
 ```c#
 using System;
@@ -47,6 +52,7 @@ namespace vijay
 }
 ```
 ## Output:
-![Screenshot (43)](https://user-images.githubusercontent.com/75235488/163834354-6061aa5f-a7cc-4276-bc1d-8cfc270925fb.png)
+![image](https://user-images.githubusercontent.com/75235488/175524120-bafc3c15-b794-4beb-a63d-16d4c5fffb0d.png)
+
 ## Result:
 Thus the C# program to grade the marks is executed successfully.
